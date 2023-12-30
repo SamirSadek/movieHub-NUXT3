@@ -1,5 +1,5 @@
 <template>
-  <section class="search-section bg-white py-4">
+  <section class="search-section bg-red-200 py-4">
     <div class="container mx-auto md:px-40 px-5">
       <div class="flex">
         <input
